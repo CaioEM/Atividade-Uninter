@@ -1,0 +1,22 @@
+h1{
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+p{
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+.sobremim{
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: justify;
+    margin-left: auto;
+    margin-top: 10rem;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    margin-left: auto;
+}

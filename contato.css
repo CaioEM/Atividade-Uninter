@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+    background-color: rgb(27, 64, 97);
+    color: beige;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 44, 44);
+}
+p{
+    font-size: 2.5rem;
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-top: 8rem;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+label{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+input{
+    text-align: center;
+    width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    border-radius: 3px;
+}
+button{
+    margin-top: 3rem;
+    width: 10rem;
+    height: 3.5rem;
+    font-size: 1rem;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+    background-color: rgb(207, 207, 207);
+}

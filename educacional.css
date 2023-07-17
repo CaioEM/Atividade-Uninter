@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+div{
+    margin-top: 3rem;
+
+    text-align: center;
+
+}
+
+li{
+    font-size: 2rem;
+    text-align: justify;
+    margin-left: 40rem;
+    padding: 2rem;
+}
